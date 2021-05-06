@@ -1,6 +1,6 @@
 # python_dojang
 
-IDE : python 3.7
+IDLE : python 3.7
 
 https://dojang.io/course/view.php?id=7
 
